@@ -1,0 +1,12 @@
+
+# Required libraries for Portfolio Optimization
+
+numpy==1.21.2
+pandas==1.3.3
+matplotlib==3.4.3
+seaborn==0.11.2
+scipy==1.7.1
+jupyter==1.0.0
+scikit-learn==0.24.2
+yfinance==0.1.67        # To fetch historical market data
+cvxopt==1.2.7           # For optimization routines in portfolio optimization
