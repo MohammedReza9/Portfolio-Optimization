@@ -66,25 +66,6 @@ jupyter notebook
 
 This will open Jupyter in your browser, and you can open the notebooks from there.
 
-## Example
-
-Here is an example of how you can run a Monte Carlo simulation and visualize the results within the `Monte_Carlo_Portfolio_Optimization.ipynb` notebook:
-
-```python
-import montecarlo_simulation
-import matplotlib.pyplot as plt
-
-# Run the simulation
-simulation_results = montecarlo_simulation.run_simulation()
-
-# Plot the results
-plt.scatter(simulation_results['Risk'], simulation_results['Return'], c=simulation_results['Sharpe'], cmap='viridis')
-plt.title('Monte Carlo Simulation of Portfolios')
-plt.xlabel('Risk')
-plt.ylabel('Return')
-plt.colorbar(label='Sharpe Ratio')
-plt.show()
-```
 
 ### Visualizations
 
