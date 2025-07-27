@@ -53,7 +53,9 @@ jupyter notebook
 
 | Efficient Frontier | Monthly Rebalanced Cumulative Return |
 |--------------------|---------------------------------------|
-| ![](./images/efficient_frontier_example.png) | ![](./images/rebalanced_vs_benchmark.png) |
+| ![](<img width="1088" height="583" alt="image" src="https://github.com/user-attachments/assets/21bac234-12f0-4b08-bcab-125e21e06ab6" />
+) | ![](<img width="1184" height="582" alt="image" src="https://github.com/user-attachments/assets/d7d44d84-5eb8-488c-b9b8-2e54a2dea042" />
+) |
 
 ---
 
